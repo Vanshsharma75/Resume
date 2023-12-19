@@ -1,0 +1,72 @@
+
+body {
+    box-shadow: 0 0 2px 1px rgba(0, 50, 186, 0.5);
+    font-family: 'Arial', sans-serif;
+    margin: 60px 5px;
+    padding: auto;
+    background-color: #ffffff;
+    color: #3f3f3f;
+    border-radius: auto; 
+}
+
+.container {
+    width: 80%;
+    margin: auto;
+}
+
+.header {
+    border: 1px solid #ddd;
+    border-radius:20px;
+    padding: auto;
+    width: auto;
+    box-shadow: 0 0 2px 1px rgba(0, 50, 186, 0.5);
+    text-align: center;
+    margin: 60px 10px;
+}
+
+.header {
+    border-radius: auto;
+    color: #0066cc;
+}
+
+header p {
+    font-weight: bold;
+}
+
+section {
+    background-color: #272727;
+    padding: 20px;
+    margin-bottom: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+section h2 {
+    color: #333;
+    border-bottom: 2px solid #333;
+    padding-bottom: 5px;
+    margin-top: 20px;
+}
+
+.resume-section h3 {
+    color: #0066cc;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+ul li {
+    margin-bottom: 5px;
+}
+
+.contact{
+    margin-top: 20px;
+}
+
+.contact {
+    margin: 5px 0;
+}
+
+/* Add more styles as needed for education, experience, skills, etc. */
